@@ -1,2 +1,2 @@
 # Supervised Learning 
-### refer to week2 for more 
+### Refer to week3 for more about Supervised learning
